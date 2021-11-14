@@ -1,0 +1,43 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  text-align: justify;
+}
+
+ul {
+  list-style-type: none;
+  background-color: rgb(10, 21, 173);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+li {
+  display: inline-block;
+}
+li a {
+  display: inline-block;
+  padding: 15px 20px;
+  text-decoration: none;
+  color: white;
+}
+li a:hover {
+  background-attachment: black;
+  color: orangered;
+}
+.section {
+  background-color: rgb(247, 255, 255);
+  margin: 15px;
+  padding: 20px;
+  border-radius: 20px;
+}
+h2 {
+  background-color: darkmagenta;
+  padding-top: 25px;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+  height: 80px;
+  font-size: 40px;
+}

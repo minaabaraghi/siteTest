@@ -1,0 +1,39 @@
+body {
+  background-color: lightblue;
+}
+.container {
+  box-sizing: border-box;
+  width: 600px;
+  height: 500px;
+  background-color: white;
+  margin: auto;
+  margin-top: 100px;
+  padding: 25px 0;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #8c8f8c;
+}
+.logo {
+  width: 150px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  border: 2px solid gray;
+}
+p {
+  text-align: center;
+}
+.social {
+  margin-top: 100px;
+  background-color: lightblue;
+  height: 60px;
+  text-align: center;
+}
+.social img {
+  width: 40px;
+  margin: 10px;
+}
+.site {
+  color: lightseagreen;
+  size: 50px;
+  margin-top: 50px;
+}
