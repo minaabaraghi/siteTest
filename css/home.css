@@ -33,11 +33,13 @@ li a:hover {
   border-radius: 20px;
 }
 h2 {
-  background-color: darkmagenta;
+  border-right: solid 30px blueviolet;
+  border-bottom: solid 5px blueviolet;
   padding-top: 25px;
-  border-radius: 12px;
-  text-align: center;
-  color: white;
-  height: 80px;
+  padding-right: 15px;
+  border-radius: 10px;
+  text-align: right;
+  color: blueviolet;
+  height: 60px;
   font-size: 40px;
 }
